@@ -19,35 +19,54 @@
 #
 ##########################################################################################
 
+Aegis
+AudioFX
 BasicDreams
+BookmarkProvider
 Browser
 Calendar
-Camera2
+CalendarProvider
+CalendarWidget
+# Camera2
+Chromium
 CMFileManager
 crDroidFileManager
 crDroidMusic
+DarknessControl
 DeskClock
 Eleven
 Email
 Exchange2
-FMRadio
+# FMRadio
 Gallery2
+GBoard
 Gello
+Greenify
 Jelly
+MoKeePay
 messaging
 mGerrit
-OmniSwitch
+MusicFX
+NovaLauncher
+OmniClockOSS
+# OmniSwitch
+OperaMini
 Phonograph
 PhotoTable
-Recorder
+QuickSearchBox
+# Recorder
+ResurrectionOTA
 ResurrectionStats
-Screencast
+# Screencast
 Slimperience
-Snap
-SnapdragonCamera
-SoundRecorder
+# Snap
+# SnapdragonCamera
+# SoundRecorder
+StellioPlayerPremium
 Stk
+VanillaMusic
 ViaBrowser
 Wallpaper
 WallpaperBackup
 WallpaperPickerGoogle
+WarpShare

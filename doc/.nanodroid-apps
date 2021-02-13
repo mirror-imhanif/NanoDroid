@@ -15,26 +15,26 @@
 Alarmio
 Amaze
 AnysoftKeyboard
-Blokada
-FreeOTPPlus
+# Blokada
+# FreeOTPPlus
 Frost
-HackersKeyboard
-K9Mail
-KeePassDX
+# HackersKeyboard
+# K9Mail
+# KeePassDX
 MPV
 NewPipe
 OAndBackupX
-Odyssey
-OpenCamera
-OpenKeyChain
-OpenLauncher
+# Odyssey
+# OpenCamera
+# OpenKeyChain
+# OpenLauncher
 OpenVPN
-PrivacyBrowser
+# PrivacyBrowser
 QKSMS
 SimpleCalendar
 SimpleGallery
 SmartPackKernelManager
 Termux
-TorBrowser
+# TorBrowser
 Twidere
 Warden

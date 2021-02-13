@@ -34,7 +34,7 @@ nanodroid_microg=1
 # examples:
 #	nanodroid_nlpbackend=1000 = install Déjà Vu backend only
 #	nanodroid_nlpbackend=1010 = install Déjà Vu and Apple backends
-nanodroid_nlpbackend=1000
+nanodroid_nlpbackend=1111
 
 # nanodroid_mapsv1:	Google Maps version 1 API support
 # supported packages: Full, microG
@@ -104,7 +104,7 @@ nanodroid_init="10_sqlite 20_fstrim 30_logcat 40_external_sd 50_logscleaner"
 # supported values:
 #	0 = don't install Google Sync Adapters
 #	1 = install Google Sync Adapters
-nanodroid_gsync=1
+nanodroid_gsync=0
 
 # nanodroid_swipe: Swipe libraries installation
 # supported packages: Google
