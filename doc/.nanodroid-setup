@@ -19,7 +19,7 @@
 #	0 = do not install microG microG (note: does not effect NanoDroid-microG package)
 #	1 = install microG GmsCore, GsfProxy, DroidGuard Helper and Nominatim Geocoder Backend
 #	2 = install microG GmsCore and Nominatim Geocoder Backend only
-nanodroid_microg=1
+nanodroid_microg=2
 
 # nanodroid_nlpbackend:	what uNlp backends to install
 # supported packages: Full, microG
@@ -34,7 +34,7 @@ nanodroid_microg=1
 # examples:
 #	nanodroid_nlpbackend=1000 = install Déjà Vu backend only
 #	nanodroid_nlpbackend=1010 = install Déjà Vu and Apple backends
-nanodroid_nlpbackend=1111
+nanodroid_nlpbackend=1100
 
 # nanodroid_mapsv1:	Google Maps version 1 API support
 # supported packages: Full, microG
